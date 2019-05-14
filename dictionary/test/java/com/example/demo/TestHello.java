@@ -13,3 +13,4 @@ public class TestHello {
 		return "xin chao";
 	}
 }
+Test merge
